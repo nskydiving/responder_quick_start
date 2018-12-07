@@ -1,6 +1,6 @@
 Examples for Responder Quick Start!
 
-See the [Responder User Guides Page](https://python-responder.org/en/latest/index.html)
+See the [Responder Quick Start! Page](https://python-responder.org/en/latest/quickstart.html)
 
 # Quick Start
 
