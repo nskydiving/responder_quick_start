@@ -1,4 +1,4 @@
-Examples for Responder Quick Start!
+Responder Quick Start! examples for macOS.
 
 See the [Responder Quick Start! Page](https://python-responder.org/en/latest/quickstart.html)
 
